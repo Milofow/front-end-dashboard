@@ -1,5 +1,12 @@
-FROM node:15.13-alpine
+FROM node:latest
+
 WORKDIR /core
-ENV PATH="./node_modules/.bin:$PATH"
-COPY . .
-RUN npm run build
+
+COPY package.json package.json
+COPY package-lock.json package.lock.json
+
+RUN npm install
+
+COPY ..
+
+CMD ["npm", "run", "start"]
