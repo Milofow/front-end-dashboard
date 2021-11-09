@@ -1,8 +1,7 @@
 import React from "react";
 
 const OnButton = () => {
-    const state()
-    return <button onClick={() => l} ></button>
+    return <button>d</button>
 
 }
 
