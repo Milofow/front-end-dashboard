@@ -1,5 +1,5 @@
 # Home automation dashboard front-end
-I'm creating a dashboard to control my IoT's in my home with. This repo is the front-end but it also requires a back-end which can be found [here](https://github.com/Milofow/devices-service). This dashboard provides:
+I'm creating a SPA application that provides a dashboard to control my IoT's in my home with. This repo is the front-end but it also requires a back-end which can be found [here](https://github.com/Milofow/devices-service). This dashboard provides:
 
 - CRUD for your devices
 - Login service using Auth0
