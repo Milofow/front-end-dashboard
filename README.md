@@ -4,7 +4,8 @@ I'm creating a SPA application that provides a dashboard to control my IoT's in 
 - CRUD for your devices
 - Login service using Auth0
 
-
+## Documentation
+Anything regarding this project that is not code can be found in the [documentation folder](https://github.com/Milofow/front-end-dashboard/tree/master/documentation)
 
 ## Run application
 To run this application you'll also need the back end service that can be found [here](https://github.com/Milofow/devices-service).
