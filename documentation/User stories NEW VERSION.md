@@ -22,11 +22,10 @@
           <ul>
             <li>The device details contains a delete icon/button</li>
             <li>REST API can delete device in database by id</li>
-            <li>User get's "are you sure?" notification</li>
+            <li>User gets "are you sure?" notification</li>
             <li>After deleting device, dashboard automatically updates</li>
             <li>API call is send on delete action</li>
             <li>Device unsubscribes to MQTT topic after delete</li>
-            <li>User get's "are you sure?" notification</li>
           </ul>
         </td>
     </tr>
