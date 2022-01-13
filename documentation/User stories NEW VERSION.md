@@ -3,7 +3,7 @@
 <table>
   <thead>
     <tr>
-      <td><b>Title:</b> <br>Deleting my devices</td>
+      <td><b>Title:</b> <br>1. Deleting my devices</td>
       <td><b>Priority:</b> <br> 3/5</td>
       <td><b>Estimate:</b> <br> 4,5h</td>
     </tr>
