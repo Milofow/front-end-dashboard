@@ -32,3 +32,34 @@
   </tbody>
 </table>
 
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <td><b>Title:</b> <br>1. Deleting my devices</td>
+      <td><b>Priority:</b> <br> 3/5</td>
+      <td><b>Estimate:</b> <br> 4,5h</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="3">
+        <b>User Story:</b><br> 
+        As a smart home owner,
+        I want to get rid of my smart home devices that I'm not using anymore
+        so that I can keep my dashboard clear</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+        <b>Acceptance Criteria:</b><br>
+          <ul>
+            <li>I can navigate to the device details and delete my device from there</li>
+            <li>When I try to delete a device I will be notified if I'm really sure and make my final decision</li>
+            <li>After I delete a device my dashboard automatically updates</li>
+          </ul>
+        </td>
+    </tr>
+  </tbody>
+</table>
+
