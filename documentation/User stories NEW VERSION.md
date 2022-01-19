@@ -63,3 +63,32 @@
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <td><b>Title:</b> <br>2. Overview of my devices</td>
+      <td><b>Priority:</b> <br> 5/5</td>
+      <td><b>Estimate:</b> <br> 3h</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="3">
+        <b>User Story:</b><br> 
+        <b>As</b> a smart home owner, <br>
+        <b>I want</b> to see all my devices grouped together on a dashboard, <br>
+        <b>so that</b> I can control them more easily.</td>
+    </tr>
+    <tr>
+      <td colspan="3">
+        <b>Acceptance Criteria:</b><br>
+          <ul>
+            <li>I only want to access my devices after I'm logged in</li>
+            <li>I want to see the device's name</li>
+            <li>I want to see the device's status</li>
+            <li>I want to be able to control them from this overview</li>
+          </ul>
+        </td>
+    </tr>
+  </tbody>
+</table>
