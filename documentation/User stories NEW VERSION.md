@@ -46,9 +46,9 @@
     <tr>
       <td colspan="3">
         <b>User Story:</b><br> 
-        As a smart home owner,
-        I want to get rid of my smart home devices that I'm not using anymore
-        so that I can keep my dashboard clear</td>
+        <b>As</b> a smart home owner, <br>
+        <b>I want</b> to get rid of my smart home devices that I'm not using anymore <br>
+        <b>so that</b> I can keep my dashboard clear</td>
     </tr>
     <tr>
       <td colspan="3">
